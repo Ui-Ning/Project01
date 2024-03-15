@@ -1,0 +1,25 @@
+body { font-family:'Pretendard'; font-weight:400; color:#000; line-height:1.5; word-break:keep-all; }
+.wrap { width:1200px; margin:0 auto; }
+.gms { font-family:'GmarketSans'; padding-top:0.2em; line-height:1; font-weight:500; }
+.fsi { font-style:italic; }
+.hidden { position:absolute; clip:rect(1px 1px 1px 1px); width:1px; height:1px; margin:-1px; overflow:hidden; }
+.tab_cont { display:none; }
+.tab_cont.on { display:block; }
+@media (max-width:1200px){
+	.wrap { width:100%; padding:0 20px; }
+}
+
+#Top { padding:20px 0; }
+#Top .wrap { display:flex; align-items:center; justify-content:space-between; }
+#Top .logo_box img { width:100%;}
+#Top .menu_box {  }
+
+#cont01 { background:#f1f1f1; }
+
+#modal > div { display:none; position:relative; z-index:10; }
+#modal > div:before { content:''; width:100%; height:100vh; background-color:rgba(0,0,0,0.5); position:fixed; left:0; top:0; z-index:10; }
+#modal .modal { position:fixed; left:50%; top:50%; border-radius:30px; z-index:11; transform:translate(-50%, -50%); padding:20px; width:calc(100% - 40px); max-width:674px; background:#fff; padding:57px 20px; }
+#modal .modal::-webkit-scrollbar { display:none; }
+#modal .modal .text { margin-bottom:36px; text-align:center; }
+#modal .modal .btn { display:flex; align-items:center; justify-content:center; }
+#modal .modal .btn button { width:100%; max-width:200px; text-align:center; font-size:16px; font-weight:700; padding:10px 0; border-radius:50px; border:1px solid #30c38c; color:#444; background:#30c38c; color:#fff; }
