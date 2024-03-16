@@ -7,18 +7,12 @@
     <div class="menu_box">
         <div class="flex">
             <button type="button" class="tab tab01" onclick="goTo('cont01')">자기소개</button>
-            <button type="button" class="tab tab02" onclick="goTo('cont02')"></button>
-            <button type="button" class="tab tab03" onclick="goTo('cont03')"></button>
-            <button type="button" class="tab tab04" onclick="goTo('cont04')"></button>
-            <button type="button" class="tab tab05" onclick="goTo('cont05')"></button>
-            <button type="button" class="tab tab06" onclick="goTo('cont06')"></button>
-            <button type="button" class="tab tab07" onclick="goTo('cont07')"></button>
-            <button type="button" class="tab tab09" onclick="goTo('cont09')"></button>
-            <button type="button" class="tab tab10" onclick="goTo('cont10')"></button>
-            <button type="button" class="tab tab11" onclick="goTo('cont11')"></button>
-            <button type="button" class="tab tab12" onclick="goTo('cont12')"></button>
-            <button type="button" class="tab tab14" onclick="goTo('cont14')"></button>
-            <button type="button" class="tab tab15" onclick="goTo('cont15')"></button>
+            <button type="button" class="tab tab02" onclick="goTo('cont02')">광주</button>
+            <button type="button" class="tab tab03" onclick="goTo('cont03')">여수</button>
+            <button type="button" class="tab tab04" onclick="goTo('cont04')">전주</button>
+            <button type="button" class="tab tab05" onclick="goTo('cont05')">취직 전</button>
+            <button type="button" class="tab tab06" onclick="goTo('cont06')">취직 후</button>
+            <button type="button" class="tab tab07" onclick="goTo('cont07')">기도제목</button>
         </div>
     </div>
 </div>

@@ -1,0 +1,38 @@
+@charset 'UTF-8';
+/* Arrows */
+.slick-prev, .slick-next { position:relative; width:8px; height:14px; z-index:1; }
+.slick-prev i, .slick-next i { position:relative; }
+.slick-prev i:before, .slick-next i:before { content:''; width:8px; height:14px; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); }
+.slick-prev i:before { background:url('/image/ic_prev01.svg') no-repeat; background-size:contain; background-position:center; }
+.slick-next i:before { background:url('/image/ic_next01.svg') no-repeat; background-size:contain; background-position:center; }
+
+/* Dots */
+.slick-dots { position:absolute; bottom:5px; left:50%; transform:translate(-50%,0); }
+.slick-dots li { position:relative; display:inline-block; margin:0 5px; transition:.3s; }
+.slick-dots li button { font-size:0; line-height:0; display:block; width:12px; height:12px; padding:5px; cursor:pointer; background:#333; opacity:.5; border-radius:30px; transition:.3s; }
+.slick-dots li button:hover, .slick-dots li button:focus { opacity:1; }
+.slick-dots li.slick-active button { width:48px; opacity:1; }
+
+/* 재생, 정지 */
+.slick_play, .slick_stop { position:relative; width:12px; height:14px; z-index:1; }
+.slick_play i, .slick_stop i { position:relative; }
+.slick_play i:before, .slick_stop i:before { content:''; width:16px; height:16px; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); }
+.slick_play i:before { background:url('/image/ic_play01.svg') no-repeat; background-size:contain; background-position:center; }
+.slick_stop i:before { background:url('/image/ic_pause01.svg') no-repeat; background-size:contain; background-position:center; }
+
+@media (max-width:1024px){
+	.slick-prev i:before, .slick-next i:before { width:7px; height:12px; }
+	.slick_play i:before, .slick_stop i:before { width:14px; height:14px; }
+}
+@media (max-width:768px){
+	.slick-prev i:before, .slick-next i:before { width:6px; height:10px; }
+	.slick_play i:before, .slick_stop i:before { width:12px; height:12px; }
+}
+@media (max-width:560px){
+	.slick-prev i:before, .slick-next i:before { width:5px; height:9px; }
+	.slick_play i:before, .slick_stop i:before { width:11px; height:11px; }
+}
+@media (max-width:480px){
+	.slick-prev i:before, .slick-next i:before { width:4px; height:8px; }
+	.slick_play i:before, .slick_stop i:before { width:10px; height:10px; }
+}
