@@ -3,8 +3,8 @@
 .slick-prev, .slick-next { position:relative; width:8px; height:14px; z-index:1; }
 .slick-prev i, .slick-next i { position:relative; }
 .slick-prev i:before, .slick-next i:before { content:''; width:8px; height:14px; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); }
-.slick-prev i:before { background:url('/image/ic_prev01.svg') no-repeat; background-size:contain; background-position:center; }
-.slick-next i:before { background:url('/image/ic_next01.svg') no-repeat; background-size:contain; background-position:center; }
+.slick-prev i:before { background:url('./image/ic_prev01.svg') no-repeat; background-size:contain; background-position:center; }
+.slick-next i:before { background:url('./image/ic_next01.svg') no-repeat; background-size:contain; background-position:center; }
 
 /* Dots */
 .slick-dots { position:absolute; bottom:5px; left:50%; transform:translate(-50%,0); }
@@ -17,8 +17,8 @@
 .slick_play, .slick_stop { position:relative; width:12px; height:14px; z-index:1; }
 .slick_play i, .slick_stop i { position:relative; }
 .slick_play i:before, .slick_stop i:before { content:''; width:16px; height:16px; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); }
-.slick_play i:before { background:url('/image/ic_play01.svg') no-repeat; background-size:contain; background-position:center; }
-.slick_stop i:before { background:url('/image/ic_pause01.svg') no-repeat; background-size:contain; background-position:center; }
+.slick_play i:before { background:url('./image/ic_play01.svg') no-repeat; background-size:contain; background-position:center; }
+.slick_stop i:before { background:url('./image/ic_pause01.svg') no-repeat; background-size:contain; background-position:center; }
 
 @media (max-width:1024px){
 	.slick-prev i:before, .slick-next i:before { width:7px; height:12px; }
