@@ -4,7 +4,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal01');">X</button>
         </div>
         <div class="text">
-            <img src="/image/img01.jpg">
+            <img src="./image/img01.jpg">
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal02');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img02.jpg">
+            <img src="./image/img02.jpg">
         </div>
     </div>
 </div>
@@ -26,7 +26,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal03');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img03.jpg">
+            <img src="./image/img03.jpg">
         </div>
     </div>
 </div>
@@ -37,7 +37,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal04');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img04.jpg">
+            <img src="./image/img04.jpg">
         </div>
     </div>
 </div>
@@ -48,7 +48,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal05');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img05.jpg">
+            <img src="./image/img05.jpg">
         </div>
     </div>
 </div>
@@ -59,7 +59,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal06');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img06.jpg">
+            <img src="./image/img06.jpg">
         </div>
     </div>
 </div>
@@ -70,7 +70,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal07');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img07.jpg">
+            <img src="./image/img07.jpg">
         </div>
     </div>
 </div>
@@ -81,7 +81,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal08');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img08.jpg">
+            <img src="./image/img08.jpg">
         </div>
     </div>
 </div>
@@ -92,7 +92,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal09');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img09.jpg">
+            <img src="./image/img09.jpg">
         </div>
     </div>
 </div>
@@ -103,7 +103,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal10');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img10.jpg">
+            <img src="./image/img10.jpg">
         </div>
     </div>
 </div>
@@ -114,7 +114,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal11');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img11.jpg">
+            <img src="./image/img11.jpg">
         </div>
     </div>
 </div>
@@ -125,7 +125,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal12');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img12.jpg">
+            <img src="./image/img12.jpg">
         </div>
     </div>
 </div>
@@ -136,7 +136,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal13');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img13.jpg">
+            <img src="./image/img13.jpg">
         </div>
     </div>
 </div>
@@ -147,7 +147,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal14');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img14.jpg">
+            <img src="./image/img14.jpg">
         </div>
     </div>
 </div>
@@ -158,7 +158,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal15');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img15.jpg">
+            <img src="./image/img15.jpg">
         </div>
     </div>
 </div>
@@ -169,7 +169,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal16');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img16.jpg">
+            <img src="./image/img16.jpg">
         </div>
     </div>
 </div>
@@ -180,7 +180,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal17');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img17.jpg">
+            <img src="./image/img17.jpg">
         </div>
     </div>
 </div>
@@ -191,7 +191,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal18');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img18.jpg">
+            <img src="./image/img18.jpg">
         </div>
     </div>
 </div>
@@ -202,7 +202,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal19');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img19.jpg">
+            <img src="./image/img19.jpg">
         </div>
     </div>
 </div>
@@ -213,7 +213,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal20');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img20.jpg">
+            <img src="./image/img20.jpg">
         </div>
     </div>
 </div>
@@ -224,7 +224,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal21');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img21.jpg">
+            <img src="./image/img21.jpg">
         </div>
     </div>
 </div>
@@ -235,7 +235,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal22');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img22.jpg">
+            <img src="./image/img22.jpg">
         </div>
     </div>
 </div>
@@ -246,7 +246,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal23');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img23.jpg">
+            <img src="./image/img23.jpg">
         </div>
     </div>
 </div>
@@ -257,7 +257,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal24');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img24.jpg">
+            <img src="./image/img24.jpg">
         </div>
     </div>
 </div>
@@ -268,7 +268,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal25');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img25.jpg">
+            <img src="./image/img25.jpg">
         </div>
     </div>
 </div>
@@ -279,7 +279,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal26');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img26.jpg">
+            <img src="./image/img26.jpg">
         </div>
     </div>
 </div>
@@ -290,7 +290,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal27');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img27.jpg">
+            <img src="./image/img27.jpg">
         </div>
     </div>
 </div>
@@ -301,7 +301,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal28');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img28.jpg">
+            <img src="./image/img28.jpg">
         </div>
     </div>
 </div>
@@ -312,7 +312,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal29');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img29.jpg">
+            <img src="./image/img29.jpg">
         </div>
     </div>
 </div>
@@ -323,7 +323,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal30');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img30.jpg">
+            <img src="./image/img30.jpg">
         </div>
     </div>
 </div>
@@ -334,7 +334,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal31');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img31.jpg">
+            <img src="./image/img31.jpg">
         </div>
     </div>
 </div>
@@ -345,7 +345,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal32');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img32.jpg">
+            <img src="./image/img32.jpg">
         </div>
     </div>
 </div>
@@ -356,7 +356,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal33');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img33.jpg">
+            <img src="./image/img33.jpg">
         </div>
     </div>
 </div>
@@ -367,7 +367,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal34');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img34.jpg">
+            <img src="./image/img34.jpg">
         </div>
     </div>
 </div>
@@ -378,7 +378,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal35');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img35.jpg">
+            <img src="./image/img35.jpg">
         </div>
     </div>
 </div>
@@ -389,7 +389,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal36');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img36.jpg">
+            <img src="./image/img36.jpg">
         </div>
     </div>
 </div>
@@ -400,7 +400,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal37');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img37.jpg">
+            <img src="./image/img37.jpg">
         </div>
     </div>
 </div>
@@ -411,7 +411,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal38');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img38.jpg">
+            <img src="./image/img38.jpg">
         </div>
     </div>
 </div>
@@ -422,7 +422,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal39');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img39.jpg">
+            <img src="./image/img39.jpg">
         </div>
     </div>
 </div>
@@ -433,7 +433,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal40');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img40.jpg">
+            <img src="./image/img40.jpg">
         </div>
     </div>
 </div>
@@ -444,7 +444,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal41');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img41.jpg">
+            <img src="./image/img41.jpg">
         </div>
     </div>
 </div>
@@ -455,7 +455,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal42');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img42.jpg">
+            <img src="./image/img42.jpg">
         </div>
     </div>
 </div>
@@ -466,7 +466,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal43');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img43.jpg">
+            <img src="./image/img43.jpg">
         </div>
     </div>
 </div>
@@ -477,7 +477,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal43-1');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img43-1.jpg">
+            <img src="./image/img43-1.jpg">
         </div>
     </div>
 </div>
@@ -488,7 +488,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal44');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img44.jpg">
+            <img src="./image/img44.jpg">
         </div>
     </div>
 </div>
@@ -499,7 +499,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal45');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img45.jpg">
+            <img src="./image/img45.jpg">
         </div>
     </div>
 </div>
@@ -510,7 +510,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal46');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img46.jpg">
+            <img src="./image/img46.jpg">
         </div>
     </div>
 </div>
@@ -521,7 +521,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal46-1');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img46-1.jpg">
+            <img src="./image/img46-1.jpg">
         </div>
     </div>
 </div>
@@ -532,7 +532,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal46-2');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img46-2.jpg">
+            <img src="./image/img46-2.jpg">
         </div>
     </div>
 </div>
@@ -543,7 +543,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal47');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img47.jpg">
+            <img src="./image/img47.jpg">
         </div>
     </div>
 </div>
@@ -554,7 +554,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal48');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img48.jpg">
+            <img src="./image/img48.jpg">
         </div>
     </div>
 </div>
@@ -565,7 +565,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal49');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img49.jpg">
+            <img src="./image/img49.jpg">
         </div>
     </div>
 </div>
@@ -576,7 +576,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal50');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img50.jpg">
+            <img src="./image/img50.jpg">
         </div>
     </div>
 </div>
@@ -587,7 +587,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal51');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img51.jpg">
+            <img src="./image/img51.jpg">
         </div>
     </div>
 </div>
@@ -598,7 +598,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal52');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img52.jpg">
+            <img src="./image/img52.jpg">
         </div>
     </div>
 </div>
@@ -609,7 +609,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal53');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img53.jpg">
+            <img src="./image/img53.jpg">
         </div>
     </div>
 </div>
@@ -620,7 +620,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal54');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img54.jpg">
+            <img src="./image/img54.jpg">
         </div>
     </div>
 </div>
@@ -631,7 +631,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal55');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img55.jpg">
+            <img src="./image/img55.jpg">
         </div>
     </div>
 </div>
@@ -642,7 +642,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal56');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img56.jpg">
+            <img src="./image/img56.jpg">
         </div>
     </div>
 </div>
@@ -653,7 +653,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal57');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img57.jpg">
+            <img src="./image/img57.jpg">
         </div>
     </div>
 </div>
@@ -664,7 +664,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal58');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img58.jpg">
+            <img src="./image/img58.jpg">
         </div>
     </div>
 </div>
@@ -675,7 +675,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal59');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img59.jpg">
+            <img src="./image/img59.jpg">
         </div>
     </div>
 </div>
@@ -686,7 +686,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal60');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img60.jpg">
+            <img src="./image/img60.jpg">
         </div>
     </div>
 </div>
@@ -697,7 +697,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal61');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img61.jpg">
+            <img src="./image/img61.jpg">
         </div>
     </div>
 </div>
@@ -708,7 +708,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal62');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img62.jpg">
+            <img src="./image/img62.jpg">
         </div>
     </div>
 </div>
@@ -719,7 +719,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal63');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img63.jpg">
+            <img src="./image/img63.jpg">
         </div>
     </div>
 </div>
@@ -730,7 +730,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal64');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img64.jpg">
+            <img src="./image/img64.jpg">
         </div>
     </div>
 </div>
@@ -741,7 +741,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal65');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img65.jpg">
+            <img src="./image/img65.jpg">
         </div>
     </div>
 </div>
@@ -752,7 +752,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal66');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img66.jpg">
+            <img src="./image/img66.jpg">
         </div>
     </div>
 </div>
@@ -763,7 +763,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal67');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img67.jpg">
+            <img src="./image/img67.jpg">
         </div>
     </div>
 </div>
@@ -774,7 +774,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal68');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img68.jpg">
+            <img src="./image/img68.jpg">
         </div>
     </div>
 </div>
@@ -785,7 +785,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal69');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img69.jpg">
+            <img src="./image/img69.jpg">
         </div>
     </div>
 </div>
@@ -796,7 +796,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal70');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img70.jpg">
+            <img src="./image/img70.jpg">
         </div>
     </div>
 </div>
@@ -807,7 +807,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal71');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img71.jpg">
+            <img src="./image/img71.jpg">
         </div>
     </div>
 </div>
@@ -818,7 +818,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal72');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img72.jpg">
+            <img src="./image/img72.jpg">
         </div>
     </div>
 </div>
@@ -829,7 +829,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal73');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img73.jpg">
+            <img src="./image/img73.jpg">
         </div>
     </div>
 </div>
@@ -840,7 +840,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal74');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img74.jpg">
+            <img src="./image/img74.jpg">
         </div>
     </div>
 </div>
@@ -851,7 +851,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal75');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img75.jpg">
+            <img src="./image/img75.jpg">
         </div>
     </div>
 </div>
@@ -862,7 +862,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal76');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img76.jpg">
+            <img src="./image/img76.jpg">
         </div>
     </div>
 </div>
@@ -873,7 +873,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal77');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img77.jpg">
+            <img src="./image/img77.jpg">
         </div>
     </div>
 </div>
@@ -884,7 +884,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal78');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img78.jpg">
+            <img src="./image/img78.jpg">
         </div>
     </div>
 </div>
@@ -895,7 +895,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal79');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img79.jpg">
+            <img src="./image/img79.jpg">
         </div>
     </div>
 </div>
@@ -906,7 +906,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal80');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img80.jpg">
+            <img src="./image/img80.jpg">
         </div>
     </div>
 </div>
@@ -917,7 +917,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal81');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img81.jpg">
+            <img src="./image/img81.jpg">
         </div>
     </div>
 </div>
@@ -928,7 +928,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal82');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img82.jpg">
+            <img src="./image/img82.jpg">
         </div>
     </div>
 </div>
@@ -939,7 +939,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal83');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img83.jpg">
+            <img src="./image/img83.jpg">
         </div>
     </div>
 </div>
@@ -950,7 +950,7 @@
             <button type="button" id="btn_targetTest_close_class" onclick="javascript:closeModal('modal84');"><i class="fa-solid fa-xmark"></i></button>
         </div>
         <div class="text">
-            <img src="/image/img84.jpg">
+            <img src="./image/img84.jpg">
         </div>
     </div>
 </div>
